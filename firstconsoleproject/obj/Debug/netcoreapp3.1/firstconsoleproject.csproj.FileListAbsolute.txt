@@ -1,0 +1,13 @@
+C:\.net\firstconsoleproject\firstconsoleproject\obj\Debug\netcoreapp3.1\firstconsoleproject.csprojAssemblyReference.cache
+C:\.net\firstconsoleproject\firstconsoleproject\obj\Debug\netcoreapp3.1\firstconsoleproject.AssemblyInfoInputs.cache
+C:\.net\firstconsoleproject\firstconsoleproject\obj\Debug\netcoreapp3.1\firstconsoleproject.AssemblyInfo.cs
+C:\.net\firstconsoleproject\firstconsoleproject\obj\Debug\netcoreapp3.1\firstconsoleproject.csproj.CoreCompileInputs.cache
+C:\.net\firstconsoleproject\firstconsoleproject\bin\Debug\netcoreapp3.1\firstconsoleproject.exe
+C:\.net\firstconsoleproject\firstconsoleproject\bin\Debug\netcoreapp3.1\firstconsoleproject.deps.json
+C:\.net\firstconsoleproject\firstconsoleproject\bin\Debug\netcoreapp3.1\firstconsoleproject.runtimeconfig.json
+C:\.net\firstconsoleproject\firstconsoleproject\bin\Debug\netcoreapp3.1\firstconsoleproject.runtimeconfig.dev.json
+C:\.net\firstconsoleproject\firstconsoleproject\bin\Debug\netcoreapp3.1\firstconsoleproject.dll
+C:\.net\firstconsoleproject\firstconsoleproject\bin\Debug\netcoreapp3.1\firstconsoleproject.pdb
+C:\.net\firstconsoleproject\firstconsoleproject\obj\Debug\netcoreapp3.1\firstconsoleproject.dll
+C:\.net\firstconsoleproject\firstconsoleproject\obj\Debug\netcoreapp3.1\firstconsoleproject.pdb
+C:\.net\firstconsoleproject\firstconsoleproject\obj\Debug\netcoreapp3.1\firstconsoleproject.genruntimeconfig.cache
